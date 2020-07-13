@@ -1,0 +1,4 @@
+#!/bin/bash
+javac Pathfind.java
+jar cvf Pathfind.jar Pathfind.class
+jar cfm Pathfind.jar Pathfind.mf *.class
