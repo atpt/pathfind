@@ -5,7 +5,7 @@ Visualise pathfinding algorithms (A* search, Dijkstra's algorithm) on a grid.
 
 Compatible with any OS, but only tested on Mac so far.
 
-**Build**
+# Build
 
 Compile simply with
 ```bash
@@ -25,7 +25,7 @@ and run with
 ```
 to create an executable .jar on Mac/Linux
 
-**Use**
+# Use
 
 1. Select the size of grid using the sliders. ```10x10``` is recommended for first use.
 
