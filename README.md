@@ -29,12 +29,14 @@ to create an executable .jar on Mac/Linux
 
 1. Select the size of grid using the sliders. ```10x10``` is recommended for first use.
 
-1. \[Optional] Change ```delay``` to set the pause after each step of the algorithm.
+1. *\[Optional] Change ```delay``` to set the pause after each step of the algorithm.*
 
-1. \[Optional] Click on squares to turn them into walls (white squares).
+1. Press start.
 
-1. \[Optional] Click on start/end-point (red/blue square) and click elsewhere to move it.
+1. *\[Optional] Click on squares to turn them into walls (white squares).*
+
+1. *\[Optional] Click on start/end-point (red/blue square) and click elsewhere to move it.*
 
 1. Press ```A*``` or ```Dijkstra``` to run the pathfinding algorithms.
 
-1. \[Optional] Press ```clear``` and repeat any of steps 2-4.
+1. *\[Optional] Press ```clear``` and repeat any of steps 4-6.*
