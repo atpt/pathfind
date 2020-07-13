@@ -40,3 +40,5 @@ to create an executable .jar on Mac/Linux
 1. Press ```A*``` or ```Dijkstra``` to run the pathfinding algorithms.
 
 1. *\[Optional] Press ```clear``` and repeat any of steps 4-6.*
+
+1. *\[Optional] Look at statistics in terminal (e.g. length of path found, execution time)*
