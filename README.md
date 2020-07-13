@@ -3,6 +3,11 @@
 
 Visualise pathfinding algorithms (A* search, Dijkstra's algorithm) on a grid.
 
+* A* is implemented 'naively' with Arraylists, but is fast in practice since the graphs (grids) are fairly small.
+
+* Dijkstra is implemented 'efficiently' with a Fibonacci Heap, but is slower on these grids because of overheads.
+
+
 Compatible with any OS, but only tested on Mac so far.
 
 # Build
